@@ -26,6 +26,10 @@ Sígueme en mis redes donde comparto el contenido que creo para seguir aprendien
 - 📷 Instagram: https://www.instagram.com/ps_cristopher
 - 📱 Facebook: https://www.facebook.com/ps.cristopher
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ps-cristopher&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **ps-cristopher/ps-cristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
