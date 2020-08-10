@@ -16,7 +16,7 @@ Escribeme y charlemos sobre software o como preparar papitas 📩 info@cristophe
 
 Puedes ver más de mi trabajo por aquí 👉🏼 [Codepen](https://codepen.io/ps_cristopher).
 
-Cada semana grabo un nuevo episodio de [ProgramArte](https://cristopherps.com/programarte-podcast), un podcast de entrevistas y charlas sobre desarrollo web, tecnología y soft skills🏼🎙.
+Cada semana grabo un nuevo episodio de [ProgramArte](https://cristopherps.com/programarte-podcast), un podcast de entrevistas y charlas sobre desarrollo web, tecnología y soft skills 🎙.
 
 ### 👉🏼 Sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
 
