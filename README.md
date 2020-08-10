@@ -1,4 +1,6 @@
-### Hola Mundo! 👋
+![Cristopher_PS](https://cristopherps.com/wp-content/uploads/2020/08/bannerSocial.png)
+
+### 🤘🏼 Hola Mundo! 
 
 Soy un desarrollador web ayudando a crear aplicaciones asombrosas 🤩, desarrollar soft skills e impulsar el crecimiento 🚀.
 
@@ -19,7 +21,7 @@ Mi LinkedIn 👨🏻‍💻 https://www.linkedin.com/in/ps-cristopher.
 Cada semana grabo un nuevo episodio de ProgramArte, un podcast de entrevistas y charlas sobre desarrollo web, tecnología y soft skills👇🏼🎙
 https://cristopherps.com/programarte-podcast.
 
-Sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
+### 👉🏼 Sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
 
 - 🔴 YouTube: https://www.youtube.com/c/CristopherPS
 - 🐦 Twitter: https://twitter.com/ps_cristopher
