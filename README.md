@@ -1,4 +1,4 @@
-![Cristopher_PS](https://cristopherps.com/wp-content/uploads/2020/08/bannerSocial.png)
+![Cristopher_PS](https://cristopherps.com/wp-content/uploads/2020/08/bannerGithub.png)
 
 ### 🤘🏼 Hola Mundo! 
 
