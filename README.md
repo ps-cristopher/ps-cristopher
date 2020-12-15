@@ -14,7 +14,7 @@ Escribeme y charlemos sobre software o como preparar papitas 📩 info@cristophe
 
 Cada semana grabo un nuevo episodio de [ProgramArte](https://anchor.fm/ps-cristopher), un podcast de entrevistas y charlas sobre desarrollo web, tecnología y soft skills 🎙.
 
-### 👉🏼 Visita mi sitio web y sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
+## 👉🏼 Visita mi sitio web y sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
 
 - 🔗 [Todos los links a mis redes, sitio web y proyectos](https://links.cristopherps.com/) 
 
