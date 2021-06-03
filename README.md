@@ -1,21 +1,22 @@
 ![Cristopher_PS](https://cristopherps.com/wp-content/uploads/2020/08/bannerGithub-1.png)
 
-### 🤘🏼 Hola Mundo! 
+### 🤘🏼 Hello World! 
 
-Soy un desarrollador web ayudando a crear aplicaciones asombrosas 🤩, desarrollar soft skills e impulsar el crecimiento 🚀.
+I am a software engineer helping people creating amazing web apps 🤩 🚀.
 
-Me apasiona la innovación tecnológica y la transformación digital, me enfoco en el desarrollo y optimización de soluciones web, con experiencia en la creación de varios tipos de aplicaciones multiplataforma; multi page apps, single page apps, progressive web apps, mobile hybrid apps, sitios con CMS así como e-commerce, actualmente me desempeño mejor con TypeScript y JavaScript, usando frameworks como Fastify, Hapi, Vue, Nuxt, Vuepress y Quasar para crear aplicaciones tanto en frontend y backend, dos años programé con Java y ahora estoy aprendiendo Go.
+I'm specialised in frontend development for complex scalable web apps, being responsible for connecting the APIs services with the final user, creating awesome and interactive interfaces and components with the best implementation of UX/UI design.
 
-Mi objetivo es seguir aportando valor y ayudar a transformar al mundo llevando a personas y marcas a la era digital, colaboro en su transformación a través del uso y creación de medios digitales para el alcance de sus objetivos.
+I am passionate about technological innovation and digital transformation, I focus on the development and optimization of web solutions, with experience in creating several kinds of multiplatform apps like multi page apps, single page applications, progressive web applications, hybrid applications, and CMS sites as well as e-commerce. I currently perform better with TypeScript and JavaScript, using frameworks such as Hapi, Vue, Nuxt, React and Quasar for creating applications in the  frontend and the backend side, years ago I was programming with Java and now I am learning Python.
 
-También creo contenido para ayudar a otros en su proceso y escribo artículos en [mi Blog](https://cristopherps.com/blog) ✍🏼. Aficionado de la fotografía, el cine y los videojuegos 🕹📸 🎥.
+My goal is to continue adding value and help transform the world by bringing people and brands to the digital age, I collaborate in their transformation through the use and creation of digital media to achieve their goals.
 
-Escribeme y charlemos sobre software o como preparar papitas 📩 info@cristopherps.com.
+I also create content to help others in their process and write articles on [mi Blog](https://cristopherps.com/blog) ✍🏼. 
+I love photography, cinema, and videogames 🕹📸 🎥.
 
-Cada semana grabo un nuevo episodio de [ProgramArte](https://anchor.fm/ps-cristopher), un podcast de entrevistas y charlas sobre desarrollo web, tecnología y soft skills 🎙.
+You can write me here 📩 info@cristopherps.com
 
-#### 👉🏼 Visita mi sitio web y sígueme en mis redes donde comparto el contenido que creo para seguir aprendiendo juntos 🚀.
+I have a podcast in spanish called [ProgramArte](https://anchor.fm/ps-cristopher), you can found interesting talks about web develfopment and entrepreneurship, technology and soft skills for profesional growing🎙.
 
-- 🔗 [Todos los links a mis redes, sitio web y proyectos](https://links.cristopherps.com/) 
+[ 👉🏼 Visit my website and follow me on my social networks where I share the content I create to continue growing together 🚀](https://links.cristopherps.com) 
 
 
