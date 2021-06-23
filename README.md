@@ -15,7 +15,7 @@ I love photography, cinema, and videogames 🕹📸 🎥.
 
 You can write me here 📩 info@cristopherps.com
 
-I have a podcast in spanish called [ProgramArte](https://anchor.fm/ps-cristopher), you can found interesting talks about web develfopment and entrepreneurship, technology and soft skills for profesional growing🎙.
+I have a podcast in spanish called [ProgramArte](https://anchor.fm/ps-cristopher), you can found interesting talks about web develfopment, entrepreneurship, technology and soft skills for profesional growing🎙.
 
 [ 👉🏼 Visit my website and follow me on my social networks where I share the content I create to continue growing together 🚀](https://links.cristopherps.com) 
 
