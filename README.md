@@ -4,7 +4,7 @@
 
 I am a software engineer helping people creating amazing web apps 🤩 🚀.
 
-I'm specialised in frontend development for complex scalable web apps, being responsible for connecting the APIs services with the final user, creating awesome and interactive interfaces and components with the best implementation of UX/UI design.
+I'm specialized in frontend development for complex scalable web apps, being responsible for connecting the APIs services with the final user, creating awesome and interactive interfaces and components with the best implementation of UX/UI design.
 
 I am passionate about technological innovation and digital transformation, I focus on the development and optimization of web solutions, with experience in creating several kinds of multiplatform apps like multi page apps, single page applications, progressive web applications, hybrid applications, and CMS sites as well as e-commerce. I currently perform better with TypeScript and JavaScript, using frameworks such as Hapi, Vue, Nuxt, React and Quasar for creating applications in the  frontend and the backend side, years ago I was programming with Java and now I am learning Python.
 
