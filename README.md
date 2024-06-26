@@ -12,7 +12,7 @@ My goal is to continue adding value and help transform the world by bringing peo
 I also create content to help others in their process and write articles on [mi Blog](https://cristopherps.com/blog) ✍🏼. 
 I love photography, cinema, and videogames 🕹📸 🎥.
 
-You can write me here 📩 info@cristopherps.com
+You can write me here 📩 cristopher.p.s@gmail.com
 
 I have a podcast in spanish called [ProgramArte](https://anchor.fm/ps-cristopher), you can found interesting talks about web develfopment, entrepreneurship, technology and soft skills for profesional growing🎙.
 
