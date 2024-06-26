@@ -1,4 +1,3 @@
-![Cristopher_PS](https://cristopherps.com/wp-content/uploads/2020/08/bannerGithub-1.png)
 
 ### 🤘🏼 Hello World! 
 
